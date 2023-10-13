@@ -1,0 +1,21 @@
+{
+  "name": "commitlint-config",
+  "version": "0.1.0",
+  "description": "A bunch of commit rules to be utilised with CommitLint at Weburz",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "commitlint",
+    "commitlint-config"
+  ],
+  "author": "jarmos",
+  "license": "MIT",
+  "devDependencies": {
+    "@commitlint/types": "^17.4.4",
+    "@types/node": "^20.8.5",
+    "eslint": "^8.51.0",
+    "prettier": "^3.0.3",
+    "typescript": "^5.2.2"
+  }
+}
