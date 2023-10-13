@@ -14,3 +14,5 @@ repos:
         name: lint commit messages
         stages:
           - commit-msg
+        additional_dependencies:
+          - "@commitlint/config-conventional"
