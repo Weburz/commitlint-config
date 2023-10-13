@@ -57,4 +57,3 @@ For more information on the licensing T&Cs, feel free to refer to the
 <!-- Reference Links -->
 
 [1]: https://www.example.com
-
